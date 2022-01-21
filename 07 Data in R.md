@@ -1,4 +1,13 @@
 # Special capacities 
+
+Lets see some of the special capabilities of R. Try
+```R
+library(dplyr)
+1:8 %>% sum %>% sqrt
+```
+
+
+
 match function in R with vectors
 ```R
 v1 <- c(2,5,6,3,7)
