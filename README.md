@@ -1,2 +1,2 @@
-# R-for-Bio
-R for Biologists
+# R for Biologists
+A gentle introduction to R programming for Biologist/ Bioinformations 
