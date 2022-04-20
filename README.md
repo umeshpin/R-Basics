@@ -1,5 +1,5 @@
-# R for Biologists
-A gentle introduction to R programming for Biologist/ Bioinformations 
+# R Basics
+A gentle introduction to R programming  
 Welcome !!!
 Lets Learn R through experiments. First of all, lets get R ready. 
 Getting R Ready
